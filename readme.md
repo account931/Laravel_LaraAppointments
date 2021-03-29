@@ -1,3 +1,29 @@
+
+## LaraAppointments: Laravel 5.5 based system for various small businesses to manage their appointment calendar.
+
+- <p>My edit.</p>
+
+
+## Brief overview of the application
+
+![Screenshot](public/images/Screenshots/1.png)
+
+![Screenshot](public/images/Screenshots/2.png)
+
+![Screenshot](public/images/Screenshots/3.png)
+
+![Screenshot](public/images/Screenshots/4.png)
+
+![Screenshot](public/images/Screenshots/5.png)
+
+![Screenshot](public/images/Screenshots/6.png)
+
+
+
+
+
+
+
 # LaraAppointments: Laravel 5.5 based system for various small businesses to manage their appointment calendar.
 
 It is a demo project for demonstrating what can be generated with [QuickAdminPanel](https://quickadminpanel.com) tool.
